@@ -2,10 +2,10 @@
 title: Urstudien - The Left Hand Exercises
 author: Carl Flesch
 fontfamily: ebgaramond
-geometry: margin=1cm
+geometry: margin=1.5cm
 papersize: a4
 pagestyle: empty
-fontsize: 11.5pt
+fontsize: 12pt
 ---
 
 ## A. Duration: 3 minutes.
@@ -21,10 +21,12 @@ This exercise must be repeated in the following manner: Instead of leaving the f
 ## D. Duration 1 minute
   
 In order not to tire the fingers continue with the thumb exercise from the third to the first position in the following manner:
-  
-When the hand is in the third or fourth position (the hand may be pressed closely against the violin) the thumb must first of all be held in a natural manner. Now let the thumb descend to the first position in such a way that without moving the hand, the thumb will find itself placed almost horizontally under the neck of the violin. Repeat this exercise twenty-four times (3×8).
 
-![Exercise D](d.png){ width=256px }
+![When the hand is in the third or fourth position (the hand may be pressed closely against the violin) the thumb must first of all be held in a natural manner. Now let the thumb descend to the first position in such a way that without moving the hand, the thumb will find itself placed almost horizontally under the neck of the violin. Repeat this exercise twenty-four times (3×8).
+](d.png){width=256px}
+
+
+
 
 ## B. Duration 4 minutes
   
@@ -38,7 +40,7 @@ The fingers must remain on the whole notes while the sixteenth notes are slurred
 
 We now come to the combined exercise of the Wrist and the Elbow. This is how to execute it. Fake the following chords, and (without leaving the strings) slide to the second, then return to the first chord. Repeat the exercise 16 times (2×8). In this way the arm and hand will be well-prepared for the changing of positions treated in Study № II combined with different bowings.
 
-![Exercise E 1](e.svg){ width=128px }
+![Exercise E](e.svg){width=218px}
 
 ## C. Duration 4 minutes
 
