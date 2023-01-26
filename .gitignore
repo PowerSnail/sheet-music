@@ -12,3 +12,4 @@
 *.vsix
 
 build/
+**/.mscbackup
