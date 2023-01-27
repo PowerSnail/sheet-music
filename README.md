@@ -4,6 +4,6 @@ This repository contains a number of sheet music from the public domain, or comp
 
 - [MuseScore](https://musescore.org/) is required to process `.mscz` files into images. 
 - [pandoc](https://pandoc.org/) and latex is required to process `md` files into PDFs. 
-
+- [scour](https://github.com/scour-project/scour) is required to optimize svg
 
 

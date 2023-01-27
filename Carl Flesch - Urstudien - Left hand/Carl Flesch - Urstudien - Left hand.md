@@ -52,4 +52,4 @@ The studies for the left hand are concluded with an exercise in which the chord 
 
 ## Acknowledgement
 
-This document is taken from the first part of Carl Flesch's Urstudien, a brilliant exercise for your left-hand fingers, and something suitable for when silence is required. The Urstudien itself has entered the public domain, and any code used to generate this document which is not derivative of the Urstudien is licensed with the MIT license. You can find the source code in this repository: https://github.com/PowerSnail/sheet-music.
+This document is taken from the first part of Carl Flesch's Urstudien, a brilliant exercise for your left-hand fingers, and something suitable for when silence is required. The Urstudien itself has entered the public domain, and any code used to generate this document which is not derivative of the Urstudien is licensed with the MIT license. You can find the source code in this repository: <https://github.com/PowerSnail/sheet-music>.
